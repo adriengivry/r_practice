@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <title>Plants Are Smarter Than You Think</title>
+    <category>Sciences</category>
+    <borrowed>6</borrowed>
+    <price>29.95</price>
+  </book>
+  <book>
+    <title>Lulu At The Beach</title>
+    <category>Youth</category>
+    <borrowed>3</borrowed>
+    <price>8.95</price>
+  </book>
+  <book>
+    <title>Republic Over The Ages</title>
+    <category>Politics</category>
+    <borrowed>8</borrowed>
+    <price>44.95</price>
+  </book>
+  <book>
+    <title>Everything About Epigenetics - Vol 1</title>
+    <category>Sciences</category>
+    <borrowed>2</borrowed>
+    <price>59.95</price>
+  </book>
+  <book>
+    <title>Everything About Epigenetics - Vol 2</title>
+    <category>Sciences</category>
+    <borrowed>1</borrowed>
+    <price>59.95</price>
+  </book>
+  <book>
+    <title>Grow Your Money</title>
+    <category>Economics</category>
+    <borrowed>10</borrowed>
+    <price>123.00</price>
+  </book>
+  <book>
+    <title>The Legend Of The Magic Deer</title>
+    <category>Fantasy</category>
+    <borrowed>2</borrowed>
+    <price>19.50</price>
+  </book>
+  <book>
+    <title>The Little Dwarf And The Big Giant</title>
+    <category>Fantasy</category>
+    <borrowed>2</borrowed>
+    <price>7.00</price>
+  </book>
+  <book>
+    <title>Social Studies</title>
+    <category>Social Sciences</category>
+    <borrowed>1</borrowed>
+    <price>35.25</price>
+  </book>
+</books>
